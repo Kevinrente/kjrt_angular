@@ -1,6 +1,4 @@
-markdown
 
-Copiar
 # Proyecto Angular 16 - Gestión de Personas
 
 Este proyecto es una aplicación de gestión de personas construida con Angular 16. Sigue las instrucciones a continuación para clonar y configurar el proyecto.
